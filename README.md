@@ -5,6 +5,6 @@
 
 Para rodar este script em sua máquina, por favor digite o comando abaixo no terminal do seu Sistema Operacional.
 
-´
+`
 python main.py
-´
+`
